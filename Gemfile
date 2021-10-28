@@ -11,7 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-gist"
   gem "jekyll-include-cache"
-  #gem "jekyll-paginate"
+  gem "jekyll-paginate"
   gem "jekyll-pandoc"
   gem "jekyll-redirect-from"
   gem "jekyll-relative-links"

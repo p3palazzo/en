@@ -9,10 +9,10 @@ description: >-
   Documentação, Modelagem e Conservação do Patrimônio. Este site é um
   ajuda-memória para mim mesmo, registrando minha trajetória profissional
   de um jeito mais acessível do que o curriculum Lattes!
-baseurl                  : ""
+baseurl                  : "/en"
 url                      : "https://palazzo.arq.br"
 locale                   : "en-US"
-repository               : "p3palazzo/p3palazzo.github.io"
+repository               : "p3palazzo/en"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : #
@@ -143,9 +143,19 @@ footer:
       # url:
 
 
+# Content
 collections:
   posts:
     permalink   : /:categories/:year/:month/:day/:title/
+  inv:
+    output      : true
+    permalink   : /:collection/:name/
+  pat:
+    output      : true
+    permalink   : /:collection/:name/
+  vis:
+    output      : true
+    permalink   : /:collection/:name/
 
 
 # Plugins
@@ -155,7 +165,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-include-cache
-  #- jekyll-paginate
+  - jekyll-paginate
   - jekyll-pandoc
   - jekyll-redirect-from
   - jekyll-relative-links
@@ -165,7 +175,7 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  #- jekyll-paginate
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -182,12 +192,12 @@ incremental: false
 
 # Markdown Processing
 kramdown:
-  input: GFM
+  input: kramdown
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..3
+  toc_levels: 1..2
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 pandoc:
@@ -273,7 +283,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /:categories/:title/
 #paginate: 5 # amount of posts to show
 #paginate_path: /page:num/
-timezone: "America/Sao_Paulo"
+timezone: "Europe/Lisbon"
 date_format: "%d/%m/%Y"
 
 
@@ -337,5 +347,26 @@ defaults:
       author_profile: false
       read_time: true
       comments: # true
+      share: true
+      related: true
+  # _inv
+  - scope:
+      path: ""
+      type: inv
+    values:
+      share: true
+      related: true
+  # _pat
+  - scope:
+      path: ""
+      type: pat
+    values:
+      share: true
+      related: true
+  # _vis
+  - scope:
+      path: ""
+      type: vis
+    values:
       share: true
       related: true

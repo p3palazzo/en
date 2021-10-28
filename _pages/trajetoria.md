@@ -1,13 +1,11 @@
 ---
-title : "Trajetória acadêmica e profissional"
-date  : 2019-05-04
-author: Pedro P. Palazzo
-lang  : pt
-namespace: trajetoria
+title : "Trajetória académica e profissional"
+date  : 2019-07-06
+permalink: /trajetoria/
+toc: true
 ---
 
-Trajetória acadêmica
-====================
+## Trajetória acadêmica ##
 
 Minha formação acadêmica caracterizou-se pelo encadeamento de atividades
 direcionadas, desde o início, para uma carreira em pesquisa e ensino. A
@@ -26,7 +24,7 @@ graduação, disciplinas do currículo de mestrado em Patrimônio cultural e
 em Arquitetura, que me levaram a tratar de problemas de conceituação,
 gestão e intervenção em sítios históricos por meio de metodologias
 arqueológicas e projetuais variadas. Paralelamente, completei um curso
-de especialização em Estudos do Extremo-Oriente, na mesma universidade,
+de especialização em Estudos do Extremo Oriente, na mesma universidade,
 visando com isso a adquirir uma pluralidade de perspectivas sobre
 historiografia e história da arte. Ainda durante o curso de graduação,
 realizei um estágio de pesquisa arqueológica nas escavações de Pompeia,
@@ -36,33 +34,32 @@ interpretação de processos de transformação do ambiente construído.
 Retornando ao Brasil, concluí minha habilitação profissional em
 Arquitetura e Urbanismo e, imediatamente, iniciei pesquisa de mestrado
 sobre o tema das raízes clássicas e academicistas da monumentalidade
-modernista no período entre-guerras. Essa abordagem ensejou uma
+modernista no período entre guerras. Essa abordagem ensejou uma
 duradoura colaboração com a minha orientadora, Dr.ª Sylvia Ficher, com a
 qual publiquei artigos durante e após o curso de mestrado versando sobre
 problemas de monumentalidade moderna, ensino de arquitetura e
-trajetórias de arquitetos do início do século XX.
+trajetórias de arquitetos do início do século <span class="smallcaps">XX</span>.
 
 Iniciei o doutorado explorando as raízes dos debates clássicos sobre
-autoridade arquitetônica na França do século XVII --- tema que seria
+autoridade arquitetônica na França do século <span class="smallcaps">XVII</span> --- tema que seria
 afunilado, por ocasião de um estágio "sanduíche" na Universidade de
-Paris IV, financiado pela CAPES, para uma análise dos debates
+Paris <span class="smallcaps">IV</span>, financiado pela <span class="smallcaps">CAPES</span>, para uma análise dos debates
 historiográficos em torno da Colunata do Louvre. Essa nova abordagem
-fez-me avançar até o século XIX e início do XX, tratando das disputas
-estéticas e profissionais que caracterizaram o ecletismo no âmbito da
-redefinição do ofício do arquiteto frente à modernização tecnológica e
-social na França. Ao mesmo tempo, devido ao início de minha atuação
-docente, expandi o escopo de meu interesse nos problemas da tradição e
-da modernidade para o universo da arquitetura histórica na região de
-Brasília, coordenando atividades curriculares e de extensão no centro
-histórico de Planaltina.
+fez-me avançar até o século <span class="smallcaps">XIX</span> e início do
+<span class="smallcaps">XX</span>, tratando das disputas estéticas e profissionais que
+caracterizaram o ecletismo no âmbito da redefinição do ofício do
+arquiteto frente à modernização tecnológica e social na França. Ao mesmo
+tempo, devido ao início de minha atuação docente, expandi o escopo de
+meu interesse nos problemas da tradição e da modernidade para o universo
+da arquitetura histórica na região de Brasília, coordenando atividades
+curriculares e de extensão no centro histórico de Planaltina.
 
 Ambas essas preocupações --- com as interfaces entre o clássico e o
 moderno, e com as tradições vernáculas brasileiras --- vêm norteando
 minha atuação profissional desde então.
 
 
-Trajetória profissional
-=======================
+## Trajetória profissional ##
 
 A minha atuação profissional, em sua maior parte como professor do
 quadro permanente da Universidade de Brasília, tem se caracterizado pela
@@ -70,43 +67,43 @@ exploração de trocas culturais tanto do ponto de vista dos objetos de
 pesquisa quanto dos modos de atuação junto aos colaboradores. Dando
 continuidade à pesquisa desenvolvida durante o período de estágio
 doutoral "sanduíche" na França, desenvolvi pesquisas abordando as
-interações entre a arquitetura clássica do século XVII ao XIX e a
-crítica mais recente. Tal abordagem repercutiu tanto em âmbitos
+interações entre a arquitetura clássica do século <span class="smallcaps">XVII</span> ao <span class="smallcaps">XIX</span>
+e a crítica mais recente. Tal abordagem repercutiu tanto em âmbitos
 interdisciplinares, como em livro coletivo publicado em parceria com
 historiadoras, quanto em fóruns internacionais, exemplificado pela minha
 participação regular nos congressos da International Association for the
-Study of Traditional Environments (IASTE) --- com sede na Universidade
-da Califórnia --- desde 2012 e em atividades científicas e de
-capacitação profissional promovidas pelo International Network for
-Traditional Building, Architecture, and Urbanism (INTBAU), desde 2009.
+Study of Traditional Environments <span class="smallcaps">(IASTE)</span> --- com sede na
+Universidade da Califórnia --- desde 2012 e em atividades científicas e
+de capacitação profissional promovidas pelo International Network for
+Traditional Building, Architecture, and Urbanism <span class="smallcaps">(INTBAU)</span>,
+desde 2009.
 
 Os períodos de afastamento da Universidade de Brasília foram, por sua
-vez, de fundamental importância para
-o enriquecimento das pesquisas desenvolvidas e das interações entre
-  pesquisa, ensino e gestão. O período em que lecionei no curso de
-  Conservação e Restauro de Bens Culturais na Universidade Federal do
-  Rio de Janeiro, entre 2014 e 2015, permitiu-me não apenas acessar
-  materiais de pesquisa que somente podiam ser encontrados nas
-  bibliotecas e arquivos do Rio de Janeiro, mas também formar redes de
-  colaboração científica e extensionista interdisciplinares e
-  interinstitucionais, envolvendo a Escola de Belas Artes e a Faculdade
-  de Arquitetura e Urbanismo da UFRJ, assim como
+vez, de fundamental importância para o enriquecimento das pesquisas
+desenvolvidas e das interações entre pesquisa, ensino e gestão. O
+período em que lecionei no curso de Conservação e Restauro de Bens
+Culturais na Universidade Federal do Rio de Janeiro, entre 2014 e 2015,
+permitiu-me não apenas acessar materiais de pesquisa que somente podiam
+ser encontrados nas bibliotecas e arquivos do Rio de Janeiro, mas também
+formar redes de colaboração científica e extensionista
+interdisciplinares e interinstitucionais, envolvendo a Escola de Belas
+Artes e a Faculdade de Arquitetura e Urbanismo da <span class="smallcaps">UFRJ</span>, assim como
 o Ministério das Relações Exteriores. Foi, também, ocasião de refletir
-  sobre os processo de ensino de história da arte, observando as
-  abordagens peculiares à Conservação e Restauro de bens móveis e
-  integrados no tocante a recortes cronológicos e preocupações teóricas
-  e técnicas. Na sequência, minha atuação como Coordenador de Museus e
-  Patrimônio Cultural junto ao Governo do Distrito Federal, em 2016,
-  fomentou um duradouro intercâmbio com a prefeitura e a universidade de
-  Le Havre, que vem tendo continuidade no âmbito da pesquisa sobre a
-  história e preservação da construção moderna após o meu retorno à UnB.
+sobre os processo de ensino de história da arte, observando as
+abordagens peculiares à Conservação e Restauro de bens móveis e
+integrados no tocante a recortes cronológicos e preocupações teóricas e
+técnicas. Na sequência, minha atuação como Coordenador de Museus e
+Patrimônio Cultural junto ao Governo do Distrito Federal, em 2016,
+fomentou um duradouro intercâmbio com a prefeitura e a universidade de
+Le Havre, que vem tendo continuidade no âmbito da pesquisa sobre a
+história e preservação da construção moderna após o meu retorno à UnB.
 
-Os contatos da FAU--UnB com a Europa, com minha participação ativa e
+Os contatos da <span class="smallcaps">FAU</span>--UnB com a Europa, com minha participação ativa e
 inclusive no papel de executor de acordos e planos de trabalho
 conjuntos, têm sido ampliados e enriquecidos desde 2016, buscando-se
 estabelecer relações de parceria que superem a convencional dicotomia
 centro--periferia. Após meu retorno à UnB, de fato, tenho presidido a
-comissão de internacionalização da FAU e participado das reuniões de
+comissão de internacionalização da <span class="smallcaps">FAU</span> e participado das reuniões de
 gestão da internacionalização junto à assessoria internacional da
 reitoria. Desde 2016, concluímos ou estamos próximos de concluir e
 renovar acordos de cooperação com cinco instituições de ensino superior
@@ -115,28 +112,48 @@ intercâmbio de alunos de pós-graduação na área de história da
 construção. Em 2018, criamos o grupo de pesquisa Documentação, Modelagem
 e Conservação do Patrimônio, que coordeno e que tem tomado a dianteira
 na condução das parcerias com a Université Le Havre, mas também com a
-Università degli Studi di Roma « Tor Vergata », com
-o Laboratório de Processos Eletroquímicos da Universidade de São Paulo e
-  o Núcleo de Tecnologia da Preservação e do Restauro, na Universidade
-  Federal da Bahia.
+Università degli Studi di Roma « Tor Vergata », com o Laboratório de
+Processos Eletroquímicos da Universidade de São Paulo e o Núcleo de
+Tecnologia da Preservação e do Restauro, na Universidade Federal da
+Bahia.
 
 Ainda no ano de 2018, realizei, às minhas próprias custas e durante
 minhas férias, dois processos de estudo e documentação na Europa,
 necessários à continuidade de meus projetos de pesquisa. O primeiro
 consistiu em levantamento bibliográfico junto à Biblioteca nacional da
-França, à biblioteca da Universidade de Paris VII e ao Centro de
-arquivos sobre a arquitetura do século XX, na Cité de l'Architecture et
-du Patrimoine, também em Paris, sobre temas atinentes à arquitetura e à
-construção no Brasil. O material coletado por essa ocasião vem sendo
-organizado com vistas à publicação de um livro monográfico sobre
-arquitetura brasileira do século XIX e da Primeira República. Minha
-estadia na França durante esse período também permitiu-me participar de
-colóquio na Escola de Arquitetura da Universidade de Estrasburgo sobre
-trocas culturais na historiografia da arquitetura, que resultará na
-publicação de um livro coletivo em 2019. O segundo período de estudos
-consistiu em levantamentos e análises da arquitetura tradicional do
-Alentejo, no sul de Portugal, com o apoio técnico do INTBAU, já tendo
-essa atividade resultado na publicação de um capítulo de livro.
+França, à biblioteca da Universidade de Paris <span class="smallcaps">VII</span> e ao
+Centro de arquivos sobre a arquitetura do século <span class="smallcaps">XX</span>, na Cité de
+l'Architecture et du Patrimoine, também em Paris, sobre temas atinentes
+à arquitetura e à construção no Brasil. O material coletado por essa
+ocasião vem sendo organizado com vistas à publicação de um livro
+monográfico sobre arquitetura brasileira do século <span class="smallcaps">XIX</span> e da Primeira
+República. Minha estadia na França durante esse período também
+permitiu-me participar de colóquio na Escola de Arquitetura da
+Universidade de Estrasburgo sobre trocas culturais na historiografia da
+arquitetura, que resultará na publicação de um livro coletivo em 2019. O
+segundo período de estudos consistiu em levantamentos e análises da
+arquitetura tradicional do Alentejo, no sul de Portugal, com o apoio
+técnico do <span class="smallcaps">INTBAU</span>, já tendo essa atividade resultado na publicação de um
+capítulo de livro.
+
+Em 2018, em parceria com a prof.ª Dr.ª Vanda Zanoni, desta <span class="smallcaps">FAU</span>–UnB,
+formei
+o grupo de pesquisa Documentação, Modelagem e Conservação do Patrimônio,
+vinculado ao Laboratório de Estudos da Urbe (LabeUrbe) do <span class="smallcaps">PPG–FAU</span>. O
+grupo conta com a participação dos professores Ana Elisabete de Almeida
+Medeiros e Márcio Buson, da <span class="smallcaps">FAU</span>--UnB, além da Dr.ª Marina
+Martins Mennucci (Universidade de Aveiro). Desde então, o grupo
+estabeleceu contatos nas Universidades de Oxford e Coimbra, e tem
+fomentado interlocuções produtivas entre seus integrantes e respectivos
+orientandos de pós-graduação.
+
+Entre 2019 e 2020, atuei como investigador visitante junto ao Centro de
+Estudos Sociais da Universidade de Coimbra, gozando de uma licença de
+pós-doutorado. Este período permitiu o aprofundamento de vínculos com
+pesquisadores do <span class="smallcaps">IASTE</span> e do ramo da morfologia urbana, e resultou em coleta
+de material teórico e primário para redação de um livro versando sobre a
+arquitetura luso-brasileira do "longo século <span class="smallcaps">XIX</span>", atualmente em
+elaboração.
 
 O estudo e o levantamento de fontes bibliográficas e construídas no
 exterior é elemento central no desenvolvimento de minhas pesquisas, mas
@@ -144,9 +161,7 @@ também na construção de redes de colaboração que vêm resultando não
 apenas em produção científica, mas também na expansão de intercâmbio de
 discentes assim como de experiências pedagógicas.
 
-
-Projetos financiados
-====================
+## Projetos financiados ##
 
 Durante minha atuação profissional, coordenei cinco projetos financiados
 por órgãos brasileiros, bem como um projeto com financiamento
@@ -160,7 +175,7 @@ estatais de fomento à pesquisa da Itália.
 
 No período de 2011 a 2014, quando coordenei pesquisas de documentação,
 interpretação e reconstituição do centro histórico de Planaltina ---
-núcleo urbano fundado no século XIX em Goiás --- obtive bolsas de
+núcleo urbano fundado no século <span class="smallcaps">XIX</span> em Goiás --- obtive bolsas de
 iniciação científica como forma de apoio ao projeto. Além disso, em
 2012, coordenei, na qualidade de arquiteto consultor da empresa
 licitante, o Inventário do Setor Tradicional de Planaltina contratado
@@ -174,16 +189,17 @@ subsequentemente, na minha contratação em 2013 como consultor ---
 mediante análise de *curriculum vitae* --- pela Secretaria de Estado de
 Turismo do Distrito Federal para desenvolver os textos interpretativos,
 de caráter histórico-cultural e arquitetônico, para a divulgação do
-Conjunto Urbanístico de Brasília, patrimônio mundial pela UNESCO, que
-são atualmente exibidos nos totens de sinalização turística em frente
-aos monumentos da cidade.
+Conjunto Urbanístico de Brasília, patrimônio mundial pela <span class="smallcaps">UNESCO</span>, que são
+atualmente exibidos nos totens de sinalização turística em frente aos
+monumentos da cidade.
 
 Em 2014, fui integrante da equipe de quatro pessoas que da coordenação
-geral do XIII Seminário de História da Cidade e do Urbanismo, realizado
-com financiamento da Fundação de Apoio à Pesquisa do Distrito Federal
-(FAPDF), de sua homóloga em Goiás, assim como da CAPES e do CNPq. De
-2015 a 2018, coordenei o projeto de pesquisa Urbanização, Arte e Crítica
-na República Velha, com auxílio financeiro da FAPDF e da CAPES.
+geral do <span class="smallcaps">XIII</span> Seminário de História da Cidade e do
+Urbanismo, realizado com financiamento da Fundação de Apoio à Pesquisa
+do Distrito Federal <span class="smallcaps">(FAPDF)</span>, de sua homóloga em Goiás,
+assim como da <span class="smallcaps">CAPES</span> e do CNPq. De 2015 a 2018, coordenei o projeto de
+pesquisa Urbanização, Arte e Crítica na República Velha, com auxílio
+financeiro da <span class="smallcaps">FAPDF</span> e da <span class="smallcaps">CAPES</span>.
 Paralelamente, como parte das atividades preparatórias à criação do
 grupo de pesquisa que atualmente coordeno, também coordenei, na
 qualidade de arquiteto consultor, o Inventário do Catetinho --- primeiro
@@ -194,8 +210,7 @@ serviços técnicos contratados pelo poder público, se rebateram em
 produção bibliográfica de caráter científico.
 
 
-Regularidade
-============
+## Regularidade da produção técnico-científica ##
 
 A minha atuação profissional e científica tem se pautado pelo fio
 condutor das relações entre tradição e modernidade, reunindo os diversos
@@ -207,11 +222,11 @@ de ordem pessoal). A isso agregam-se as publicações em anais de eventos
 e as organizações de livros. O crescimento da minha produção
 bibliográfica em 2018, quando publiquei quatro artigos e capítulos, foi
 planejado em preparação para o tempo que pretendo dedicar, em 2019 e
-2020, à finalização de um livro monográfico sobre a história da
-arquitetura brasileira no século XIX e Primeira República, resultando em
-provável queda no número de publicações de artigos e capítulos durante
-esse período --- queda relativizada, porém, graças a um capítulo que já
-se encontra no prelo e outro em fase de revisão.
+2020, à redação de um livro monográfico sobre a história da arquitetura
+brasileira no século <span class="smallcaps">XIX</span> e primeira República, resultando em provável
+queda no número de publicações de artigos e capítulos durante esse
+período --- queda relativizada, porém, graças a um capítulo que já se
+encontra no prelo e outro em fase de revisão.
 
 Minha produção bibliográfica tem buscado um equilíbrio entre textos
 redigidos em colaboração com outros pesquisadores e alunos de
@@ -222,8 +237,8 @@ ressaltar minha contribuição individual para o conhecimento científico.
 
 Também tenho atuado, em ciclos regulares, na organização e coordenação
 de eventos nacionais e internacionais, em 2011 --- Workshop
-internacional Brasília 50+50 ---, 2014 --- XIII SHCU ---, 2017 ---
-seminário sobre história da construção organizado em parceria entre a
-UnB e a Université catholique de Louvain --- e, atualmente, participando
-da coordenação geral do IV Enanparq a ser realizado em 2020.
+internacional Brasília 50+50 ---, 2014 --- <span class="smallcaps">XIII SHCU</span> ---, 2017 --- seminário
+sobre história da construção organizado em parceria entre a UnB e a
+Université catholique de Louvain --- e, atualmente, participando da
+coordenação geral do <span class="smallcaps">VI</span> Enanparq a ser realizado em 2020.
 

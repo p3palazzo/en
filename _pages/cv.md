@@ -1,10 +1,10 @@
 ---
 title: "Pedro P. Palazzo"
-lang: en
 layout: single
-permalink: /en/cv/
-namespace: cv
-abstract: |
+permalink: /cv/
+classes: cv
+toc: true
+excerpt: |
   Architectural historian and preservationist specialising in the
   Beaux-Arts tradition and in vernacular building cultures of the
   Portuguese speaking world, with particular interest in their
@@ -16,44 +16,38 @@ abstract: |
   Portugal, and Spain.
 ---
 
-```{=latex}
-\columnsbegin
-```
-
-#### Visiting researcher ####
+##### Visiting researcher #####
 
 |  
-| Centro de Humanidades [(CHAM)]{.smallcaps}
-| Universidade [NOVA]{.smallcaps} de Lisboa
+| Centro de Humanidades <span class="smallcaps">(CHAM)</span>
+| Universidade <span class="smallcaps">NOVA</span> de Lisboa
 | TechNetEmpire research project
 
-#### Associate professor ####
+##### Associate professor #####
 
 |  
 | University of Brasilia
 | School of Architecture and Urbanism
 | Campus Darcy Ribeiro Gleba A
-| [ICC]{.smallcaps} Norte [ASS--585/9]{.smallcaps}
-| Brasília [DF]{.smallcaps} 70.910--900
+| <span class="smallcaps">ICC</span> Norte <span class="smallcaps">ASS--585/9</span>
+| Brasília <span class="smallcaps">DF</span> 70.910--900
 
-#### Partner, Consultant ####
+##### Partner, Consultant #####
 
 |  
 | Ábaco Arquitetura *&* Design Ambiental
-| [SGAN]{.smallcaps} 912 Módulo C Sala [A--13]{.smallcaps}
-| Brasília [DF]{.smallcaps} 70.790--123
+| <span class="smallcaps">SGAN</span> 912 Módulo C Sala <span class="smallcaps">A--13</span>
+| Brasília <span class="smallcaps">DF</span> 70.790--123
 | [www.abaco-arquitetura.com.br](http://www.abaco-arquitetura.com.br)
 
-#### Research group leader ####
+##### Research group leader #####
 
 |  
 | Documentation, Modelling, and Conservation
 | of Historic Sites
 | [www.labeurbe.unb.br](http://www.labeurbe.unb.br)
 
-\columnbreak
-
-#### Education #### {.cv}
+##### Education #####
 
 2010
 : Ph.D in Aesthetics and Semiology of Architecture and Urbanism
@@ -81,11 +75,7 @@ abstract: |
 : Certificate in East Asian Studies
 : University of Maryland at College Park
 
-```{=latex}
-\columnsend
-```
-
-# Academic and Research Affiliations # {.cv}
+## Academic and Research Affiliations ##
 
 2020--
 : University of Brasilia School of Architecture and Urbanism
@@ -93,13 +83,13 @@ abstract: |
   research.
 
 2020--
-: Centre for Humanities ([CHAM]{.smallcaps}), Universidade Nova de
+: Centre for Humanities (<span class="smallcaps">CHAM</span>), Universidade Nova de
   Lisboa Faculty of Social Sciences and Humanities
-  ([NOVA--FCSH]{.smallcaps})
+  (<span class="smallcaps">NOVA--FCSH</span>)
 : Visiting researcher.
 
 2019--2020
-: Centre for Social Studies ([CES]{.smallcaps}), University of Coimbra
+: Centre for Social Studies (<span class="smallcaps">CES</span>), University of Coimbra
 : Visiting researcher.
 
 2010--2014, 2016--2020
@@ -121,7 +111,7 @@ abstract: |
 : Centro Universitário Euro-Americano, Brasilia, Brazil
 : Lecturer, undergraduate teaching.
 
-# Research and Funding # {.cv}
+## Research and Funding ##
 
 All projects conducted as Principal Investigator unless noted otherwise.
 
@@ -129,8 +119,8 @@ All projects conducted as Principal Investigator unless noted otherwise.
 : *TechNetEmpire: Technical--scientific Networks in the built
   environment of the Portuguese Empire (1647--1871)*
 : Project coordinated by Alice Faria and Renata Araujo,
-  [NOVA--FCSH--CHAM]{.smallcaps}
-: Funded by [FCT]{.smallcaps}, Portuguese
+  <span class="smallcaps">NOVA--FCSH--CHAM</span>
+: Funded by <span class="smallcaps">FCT</span>, Portuguese
   Foundation for Science and Technology.
 
 2019--
@@ -142,7 +132,7 @@ All projects conducted as Principal Investigator unless noted otherwise.
 2019--
 : *Classic, Traditional, Eclectic: Cosmopolitanism and Nationalism
   in the Long 19^th^ Century*
-: Research project funded by [FAP--DF]{.smallcaps},
+: Research project funded by <span class="smallcaps">FAP--DF</span>,
   Federal District Research Foundation, Brazil.
 
 2016--2018
@@ -155,22 +145,22 @@ All projects conducted as Principal Investigator unless noted otherwise.
 
 2014--2019
 : *Urbanisation, Art, and Criticism in Brazil's First Republic*
-: Research project funded by [CAPES]{.smallcaps}, Brazilian Ministry of
+: Research project funded by <span class="smallcaps">CAPES</span>, Brazilian Ministry of
   Education Agency for the Improvement of Higher Education.
 
 2011--2018
 : *Documentation and modelling of traditional architectural features*
 : Project associated with professional studies contracted and funded by
-  [IPHAN]{.smallcaps}, National Historic and Artistic Heritage Institute, Brazil.
+  <span class="smallcaps">IPHAN</span>, National Historic and Artistic Heritage Institute, Brazil.
 
 2007--2010
 : *Historiography and Critique of the East Façade of the Louvre,
   1664--1964*
 : Doctoral research
   partially funded by a foreign study grant from
-  [CAPES]{.smallcaps}.
+  <span class="smallcaps">CAPES</span>.
 
-# Publications in English # {.cv}
+## Publications in English ##
 
 Article accepted for publication
 : 'Vernacular Patterns in Portugal and Brazil: Evolution and
@@ -219,7 +209,7 @@ Article accepted for publication
 2010
 : {% reference ficher:2010modern %}
 
-# Other Publications # {.cv}
+## Other Publications ##
 
 Upcoming book chapter
 : 'Le nationalisme romantique en Europe et la critique des styles
@@ -228,7 +218,7 @@ Upcoming book chapter
   Jannière.
 
 2021
-~ {% reference palazzo:2021programa %}
+: {% reference palazzo:2021programa %}
 
 2020
 : {% reference palazzo:2020relacoes %}
@@ -268,16 +258,16 @@ Upcoming book chapter
   century in the Brazilian Central highlands. Project manager and
   historian.
 
-# Award # {.cv}
+## Award ##
 
 2015
 : Brazilian Institute of Architects publication award (honourable
   mention) for the Historic Preservation Survey Report on the Historic
   District of the Town of Planaltina.
 
-# Teaching #
+## Teaching ##
 
-#### University of Brasilia School of Architecture and Urbanism ####
+##### University of Brasilia School of Architecture and Urbanism #####
 
 Seminar
 : Required course (Master and Ph.D in Architecture and Urbanism)
@@ -302,11 +292,11 @@ Conservation of Modern Heritage
   and modern construction. Critique of conservation theories and
   principles as applied to 20^th^ century heritage.
 
-History of Architecture and Art [I]{.smallcaps}
+History of Architecture and Art <span class="smallcaps">I</span>
 : Required course (Bachelor of Architecture and Urbanism).
 : Survey of art and architecture from Antiquity to the Middle Ages.
 
-History of Architecture and Art [II]{.smallcaps}
+History of Architecture and Art <span class="smallcaps">II</span>
 : Required course (Bachelor of Architecture and Urbanism).
 : Survey of architecture and urbanisation from the 15^th^ to the 18^th^
   centuries.
@@ -331,9 +321,7 @@ Comparative Art
 : Comparison in aesthetic theories from the 18^th^ century to the
   present. Expression and meaning in architecture and the visual arts.
 
-\pagebreak
-
-#### Federal University of Rio de Janeiro School of Fine Arts ####
+##### Federal University of Rio de Janeiro School of Fine Arts #####
 
 History, Ethics, and Aesthetics of Conservation
 : Required course (Bachelor of Conservation and Restoration).
@@ -341,20 +329,20 @@ History, Ethics, and Aesthetics of Conservation
   Italian, Austrian, American, and Spanish schools of preservation.
   National and international charters.
 
-History of Art [IV]{.smallcaps}
+History of Art <span class="smallcaps">IV</span>
 : Required course (Bachelor of Conservation and Restoration).
 : 17^th^ and 18^th^ century art in Europe.
 
-History of Art [V]{.smallcaps}
+History of Art <span class="smallcaps">V</span>
 : Required course (Bachelor of Conservation and Restoration).
 : 19^th^ century art in Europe.
 
-Art in Brazil [II]{.smallcaps}
+Art in Brazil <span class="smallcaps">II</span>
 : Required course (Bachelor of Conservation and Restoration).
 : Visual arts in Brazil from the 16^th^ to the 18^th^ century.
   Hybridisation between European, indigenous, and African cultures.
 
-Art in Brazil [III]{.smallcaps}
+Art in Brazil <span class="smallcaps">III</span>
 : Required course (Bachelor of Conservation and Restoration).
 : Visual arts in Brazil during the 19^th^ century.
 
@@ -363,7 +351,7 @@ Art Market
 : Economic aspects of the work of art. Market and investment in Brazil.
   Authenticity as an economic asset.
 
-# Leadership and Service # {.cv}
+## Leadership and Service ##
 
 2020--
 : University of Brasilia postgraduate program in Architecture and
@@ -378,7 +366,7 @@ Art Market
 
 2019--
 : *Journal of Traditional Building, Architecture and Urbanism*
-  ([INTBAU]{.smallcaps} Spain and Rafael Manzano Prize)
+  (<span class="smallcaps">INTBAU</span> Spain and Rafael Manzano Prize)
 : Scientific committee member.
 
 2017--2019
@@ -397,7 +385,7 @@ Art Market
 : Assistant department chair.
 
 2013--2014
-: [XIII SHCU]{.smallcaps}: National Seminar on the History of Cities and
+: <span class="smallcaps">XIII SHCU</span>: National Seminar on the History of Cities and
   Urbanism, Brazil
 : Organising committee co-chair (with Dr Elane Ribeiro Peixoto, Dr Maria
   Fernanda Derntl, and Dr Ricardo Trevisan)
@@ -411,7 +399,7 @@ Art Market
 : *Journal of Urbanism* (Taylor and Francis)
 : Editorial board member.
 
-# Master and Doctoral Supervisions # {.cv}
+## Master and Doctoral Supervisions ##
 
 Sole supervisor except where noted otherwise.
 

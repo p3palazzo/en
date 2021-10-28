@@ -29,7 +29,7 @@ historic preservation and traditional architecture through
 
 Contact and inquiries through my social networks (links on top)
 
-# My work #
+## My work ##
 
 - Profile and selected publications on
   [Humanities Commons](https://sah.hcommons.org/members/palazzo/)

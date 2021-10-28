@@ -6,33 +6,28 @@ page_js:
 
 ![](https://hcommons.org/app/uploads/sites/1001018/2021/05/pp-0535.jpg){: .align-right}
 
-Sou arquiteto e historiador da arquitetura com experiência em
-preservação e gestão de sítios culturais. Pesquiso as tradições
-construtivas do Mediterrâneo ocidental e do mundo lusófono nos séculos
-<span class="smallcaps">XVIII</span> e <span class="smallcaps">XIX</span>, com ênfase nas interfaces entre
-a construção tradicional e a moderna, bem como entre a arquitetura
-erudita da tradição clássica e as tipologias vernáculas.
+I am an architectural historian and a historic preservationist
+specializing in the western Mediterranean and Portuguese-speaking world
+in the eighteenth and nineteenth centuries. My research explores the
+interfaces between traditional and modern construction as well as
+between the 'learned' architecture of classicism and vernacular
+typologies.
 
-Atualmente sou professor associado na [Faculdade de Arquitetura e
-Urbanismo da Universidade de Brasília](http://www.fau.unb.br) e
-investigador visitante junto ao projeto
-[TechNetEmpire](http://technetempire.fcsh.unl.pt/) na Universidade
-<span class="smallcaps">NOVA</span> de Lisboa. Sou membro do Comitê de documentação do
-conselho científico do Icomos Brasil e realizo trabalhos técnicos
-esporádicos em patrimônio cultural e arquitetura tradicional com a
+I am currently associate professor at the [University of Brasilia School
+of Architecture and Urbanism](http://www.fau.unb.br) and a visiting
+scholar affiliated with the
+[TechNetEmpire](https://technetempire.fcsh.unl.pt/) research project at
+the <span class="smallcaps">NOVA</span> University, Lisbon. I am a member of the
+Documentation committee of Icomos Brazil and do consulting work in
+historic preservation and traditional architecture through
 [Ábaco Arquitetura](https://www.abaco-arquitetura.com.br).
 
-Contato: via redes sociais (links no topo da página)
+Contact and inquiries through my social networks (links on top)
 
-- [Trajetória acadêmica e profissional]({% link _pages/trajetoria.md %})
-- Meu perfil e publicações no [Humanities Commons](https://sah.hcommons.org/members/palazzo/)
+# My work #
 
-## Ensino ##
-
-- [História da Arquitetura e da Arte I](/tau0005/)
-- [História da Arquitetura e da Arte II](/tau0006/)
-
-## Trabalhos técnicos e consultorias ##
-
-- Plantas, mapas e diagramas no [Wikimédia Commons](https://commons.wikimedia.org/wiki/User:Arqpalazzo?uselang=pt)
+- Profile and selected publications on
+  [Humanities Commons](https://sah.hcommons.org/members/palazzo/)
+- Plans, maps, and diagrams on
+  [Wikimedia Commons](https://commons.wikimedia.org/wiki/User:Arqpalazzo?uselang=en)
 

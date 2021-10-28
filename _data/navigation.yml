@@ -1,5 +1,5 @@
 main:
-  - title: '<i title="Curriculum Vitae" class="ai ai-cv-square"></i>'
+  - title: '<i title="Résumé" class="ai ai-cv-square"></i>'
     url  : '/cv/'
   - title: '<i title="ORCID" class="ai ai-orcid-square" aria-hidden="true"></i>'
     url  : 'https://orcid.org/0000-0002-0187-774X'

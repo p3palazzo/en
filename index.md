@@ -2,6 +2,11 @@
 layout: single
 page_js:
 - /assets/js/redirect.js
+sidebar:
+  - text: |
+      <i class="fas fa-globe"></i> ·
+      [fr](https://palazzo.arq.br/fr/) ·
+      [pt](https://palazzo.arq.br/pt/)
 ---
 
 ![](https://hcommons.org/app/uploads/sites/1001018/2021/05/pp-0535.jpg){: .align-right}

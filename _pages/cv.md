@@ -14,6 +14,8 @@ excerpt: |
   preservation, at undergraduate and postgraduate levels. Part of
   research projects and networks with universities in Belgium, Italy,
   Portugal, and Spain.
+header:
+  overlay_color: "#2b2b2b00"
 ---
 
  

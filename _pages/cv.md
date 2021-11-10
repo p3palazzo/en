@@ -162,10 +162,8 @@ All projects conducted as Principal Investigator unless noted otherwise.
 
 ## Publications in English ##
 
-Article accepted for publication
-: 'Vernacular Patterns in Portugal and Brazil: Evolution and
-  Adaptations,' *Journal of Traditional Building, Architecture and
-  Urbanism* no. 2 (2021).
+2021
+: {% reference palazzo:2021vernacular %}
 
 2021
 : {% reference palazzo:2021death %}

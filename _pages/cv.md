@@ -16,38 +16,39 @@ excerpt: |
   Portugal, and Spain.
 ---
 
-##### Visiting researcher #####
+ 
+: <span class="newthought">Visiting researcher</span>
+: \\
+  Centro de Humanidades <span class="smallcaps">(CHAM)</span>  
+  Universidade <span class="smallcaps">NOVA</span> de Lisboa  
+  TechNetEmpire research project
 
-|  
-| Centro de Humanidades <span class="smallcaps">(CHAM)</span>
-| Universidade <span class="smallcaps">NOVA</span> de Lisboa
-| TechNetEmpire research project
+ 
+: <span class="newthought">Associate professor</span>
+: \\
+  University of Brasilia  
+  School of Architecture and Urbanism  
+  Campus Darcy Ribeiro Gleba A  
+  <span class="smallcaps">ICC</span> Norte <span class="smallcaps">ASS--585/9</span>  
+  Brasília <span class="smallcaps">DF</span> 70.910--900
 
-##### Associate professor #####
+ 
+: <span class="newthought">Partner, Consultant</span>
+: \\
+  Ábaco Arquitetura *&* Design Ambiental  
+  <span class="smallcaps">SGAN</span> 912 Módulo C Sala <span class="smallcaps">A--13</span>  
+  Brasília <span class="smallcaps">DF</span> 70.790--123  
+  [www.abaco-arquitetura.com.br](http://www.abaco-arquitetura.com.br)
 
-|  
-| University of Brasilia
-| School of Architecture and Urbanism
-| Campus Darcy Ribeiro Gleba A
-| <span class="smallcaps">ICC</span> Norte <span class="smallcaps">ASS--585/9</span>
-| Brasília <span class="smallcaps">DF</span> 70.910--900
+ 
+: <span class="newthought">Research group leader</span>
+: \\
+  Documentation, Modelling, and Conservation  
+  of Historic Sites  
+  [www.labeurbe.unb.br](http://www.labeurbe.unb.br)
 
-##### Partner, Consultant #####
-
-|  
-| Ábaco Arquitetura *&* Design Ambiental
-| <span class="smallcaps">SGAN</span> 912 Módulo C Sala <span class="smallcaps">A--13</span>
-| Brasília <span class="smallcaps">DF</span> 70.790--123
-| [www.abaco-arquitetura.com.br](http://www.abaco-arquitetura.com.br)
-
-##### Research group leader #####
-
-|  
-| Documentation, Modelling, and Conservation
-| of Historic Sites
-| [www.labeurbe.unb.br](http://www.labeurbe.unb.br)
-
-##### Education #####
+ 
+: <span class="newthought">Education</span>
 
 2010
 : Ph.D in Aesthetics and Semiology of Architecture and Urbanism

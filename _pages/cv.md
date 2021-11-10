@@ -1,5 +1,5 @@
 ---
-title: "Pedro P. Palazzo"
+title: "Résumé"
 layout: single
 permalink: /cv/
 classes: cv
@@ -18,15 +18,15 @@ excerpt: |
 
  
 : <span class="newthought">Visiting researcher</span>
-: \\
-  Centro de Humanidades <span class="smallcaps">(CHAM)</span>  
+
+: Centro de Humanidades <span class="smallcaps">(CHAM)</span>  
   Universidade <span class="smallcaps">NOVA</span> de Lisboa  
   TechNetEmpire research project
 
  
 : <span class="newthought">Associate professor</span>
-: \\
-  University of Brasilia  
+
+: University of Brasilia  
   School of Architecture and Urbanism  
   Campus Darcy Ribeiro Gleba A  
   <span class="smallcaps">ICC</span> Norte <span class="smallcaps">ASS--585/9</span>  
@@ -34,16 +34,16 @@ excerpt: |
 
  
 : <span class="newthought">Partner, Consultant</span>
-: \\
-  Ábaco Arquitetura *&* Design Ambiental  
+
+: Ábaco Arquitetura *&* Design Ambiental  
   <span class="smallcaps">SGAN</span> 912 Módulo C Sala <span class="smallcaps">A--13</span>  
   Brasília <span class="smallcaps">DF</span> 70.790--123  
   [www.abaco-arquitetura.com.br](http://www.abaco-arquitetura.com.br)
 
  
 : <span class="newthought">Research group leader</span>
-: \\
-  Documentation, Modelling, and Conservation  
+
+: Documentation, Modelling, and Conservation  
   of Historic Sites  
   [www.labeurbe.unb.br](http://www.labeurbe.unb.br)
 
@@ -266,7 +266,8 @@ Upcoming book chapter
 
 ## Teaching ##
 
-##### University of Brasilia School of Architecture and Urbanism #####
+<span class="newthought">University of Brasilia School of Architecture
+and Urbanism</span>
 
 Seminar
 : Required course (Master and Ph.D in Architecture and Urbanism)
@@ -320,7 +321,8 @@ Comparative Art
 : Comparison in aesthetic theories from the 18^th^ century to the
   present. Expression and meaning in architecture and the visual arts.
 
-##### Federal University of Rio de Janeiro School of Fine Arts #####
+<span class="newthought">Federal University of Rio de Janeiro School of
+Fine Arts</span>
 
 History, Ethics, and Aesthetics of Conservation
 : Required course (Bachelor of Conservation and Restoration).

@@ -208,7 +208,7 @@ pandoc:
 scholar:
   group_by               : type
   group_order            : ascending
-  locale                 : pt
+  locale                 : en
   order                  : descending
   sort_by                : date
   style                  : "chicago-fullnote-bibliography-with-ibid"

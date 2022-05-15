@@ -1,6 +1,6 @@
 main:
-  - title: '<i title="Résumé" class="ai ai-cv-square"></i>'
-    url  : '/cv/'
+  - title: '<i title="LinkedIn" class="fab fa-linkedin" aria-hidden="true"></i>'
+    url  : 'https://linkedin.com/in/p3palazzo'
   - title: '<i title="ORCID" class="ai ai-orcid-square" aria-hidden="true"></i>'
     url  : 'https://orcid.org/0000-0002-0187-774X'
   - title: '<i title="Ciência Vitae" class="ai ai-ciencia-vitae-square" aria-hidden="true"></i>'
@@ -11,9 +11,3 @@ main:
     url  : 'https://unb.academia.edu/PedroPalazzo'
   - title: '<i title="ResearchGate" class="ai ai-researchgate-square" aria-hidden="true"></i>'
     url  : 'https://www.researchgate.net/profile/Pedro-Palazzo'
-  - title: '<i class="fab fa-github-square" title="GitHub" aria-hidden="true"></i>'
-    url  : 'https://github.com/p3palazzo'
-  - title: '<i title="LinkedIn" class="fab fa-linkedin" aria-hidden="true"></i>'
-    url  : 'https://linkedin.com/in/p3palazzo'
-  - title: '<i title="YouTube" class="fab fa-youtube-square" aria-hidden="true"></i>'
-    url  : 'https://youtube.com/PedroPauloPalazzo'

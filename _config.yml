@@ -1,22 +1,18 @@
 # General
-theme                    : "minimal-mistakes-jekyll"
-title                    : "Pedro P. Palazzo"
+remote_theme             : "mmistakes/minimal-mistakes"
+title                    : &name "Pedro P. Palazzo"
 title_separator          : "-"
-name                     : "Pedro P. Palazzo"
-description: >-
-  Pesquiso arquitetura tradicional do Brasil. Sou professor na
-  Universidade de Brasília e coordenador do grupo de pesquisa
-  Documentação, Modelagem e Conservação do Patrimônio. Este site é um
-  ajuda-memória para mim mesmo, registrando minha trajetória profissional
-  de um jeito mais acessível do que o curriculum Lattes!
+subtitle                 : &bio "Architectural historian and historic preservationist"
+name                     : *name
+description              : *bio
 baseurl                  : "/en"
-url                      : "https://palazzo.arq.br"
+url                      : "https://palazzo.pt"
 locale                   : "en-US"
-repository               : "p3palazzo/en"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+repository               : "palazzo-pt/en"
+teaser                   : https://cdn.palazzo.arq.br/portfolio/pavilion-2020-04-15-5322-crop-teaser.jpg
+logo                     : 
 masthead_title           : #
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -48,7 +44,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -65,12 +61,11 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 head_scripts:
-  #- https://kit.fontawesome.com/eddf3d9a63.js
 
 
 # Social Sharing
 twitter:
-  username               : p3palazzo
+  username               : &twitter "p3palazzo"
 facebook:
   username               :
   app_id                 :
@@ -82,6 +77,10 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/p3palazzo"
+    - "https://instagram.com/p3palazzo"
+    - "https://github.com/p3palazzo"
+    - "https://linkedin.com/in/p3palazzo"
 
 
 # Analytics
@@ -94,18 +93,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pedro P. Palazzo"
-  avatar           : "https://avatars.githubusercontent.com/u/8295666?v=4"
-  bio              : "Associate professor"
-  location         : "FAU–UnB"
-  email            : "palazzo@unb.br"
+  name             : *name
+  avatar           : https://avatars.githubusercontent.com/u/8295666?v=4
+  bio              : *bio
+  location         : "Coimbra"
+  email            : "pedro@palazzo.pt"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "palazzo@unb.br"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://palazzo.arq.br/"
+      # url: "https://palazzo.arq.br/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/p3palazzo"
@@ -118,6 +117,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/p3palazzo"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/p3palazzo"
 
 
 # Site Footer
@@ -125,53 +127,54 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/p3palazzo"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/p3palazzo"
+    - label: "YouTube"
+      icon : "fab fa-fw fa-youtube"
+      url  : 'https://youtube.com/PedroPauloPalazzo'
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/p3palazzo"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/p3palazzo"
 
 
 # Content
 collections:
   posts:
     permalink   : /:categories/:year/:month/:day/:title/
-  inv:
+  research:
     output      : true
     permalink   : /:collection/:name/
-  pat:
+  design:
     output      : true
     permalink   : /:collection/:name/
-  vis:
+  visualization:
     output      : true
     permalink   : /:collection/:name/
 
 
 # Plugins
 plugins:
-  - jekyll-archives
   - jekyll-data
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-include-cache
-  - jekyll-paginate
-  - jekyll-pandoc
   - jekyll-redirect-from
-  - jekyll-relative-links
-  - jekyll-scholar
   - jekyll-seo-tag
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-relative-links
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -200,38 +203,6 @@ kramdown:
   toc_levels: 1..2
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-pandoc:
-  extensions:
-    - csl                : "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-note-bibliography-with-ibid.csl"
-    - defaults           : "_spec/html.yaml"
-    - section-divs
-scholar:
-  group_by               : type
-  group_order            : ascending
-  locale                 : en
-  order                  : descending
-  sort_by                : date
-  style                  : "chicago-fullnote-bibliography-with-ibid"
-  type_aliases:
-    mvbook               : book
-  type_names:
-    article              : "Artigos em periódicos"
-    book                 : "Livros"
-    incollection         : "Capítulos de livro"
-    inproceedings        : "Trabalhos completos em anais de evento"
-    misc                 : "Outros trabalhos técnicos"
-    phdthesis            : "Orientações de Doutorado"
-    thesis               : "Orientações de Mestrado"
-    unpublished          : "Palestras"
-  type_order:
-    - book
-    - article
-    - incollection
-    - inproceedings
-    - misc
-    - unpublished
-    - phdthesis
-    - thesis
 sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
@@ -281,8 +252,8 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Write
 permalink: /:categories/:title/
-#paginate: 5 # amount of posts to show
-#paginate_path: /page:num/
+paginate: 5 # amount of posts to show
+paginate_path: /posts/page:num/
 timezone: "Europe/Lisbon"
 date_format: "%d/%m/%Y"
 
@@ -331,13 +302,16 @@ defaults:
     values:
       layout: single
       toc: false
+      toc_icon: "paragraph"
       toc_label: false
-      toc_sticky: false
+      toc_sticky: true
       author_profile: false
       read_time: false
       comments: false
       share: false
       related: false
+      header:
+        overlay_filter: 0.6
   # _posts
   - scope:
       path: ""
@@ -349,24 +323,28 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _inv
+      toc: true
+  # _research
   - scope:
       path: ""
-      type: inv
+      type: research
     values:
       share: true
-      related: true
-  # _pat
+      related: false
+      toc: true
+  # _design
   - scope:
       path: ""
-      type: pat
+      type: design
     values:
       share: true
-      related: true
-  # _vis
+      related: false
+      toc: true
+  # _visualization
   - scope:
       path: ""
-      type: vis
+      type: visualization
     values:
       share: true
-      related: true
+      related: false
+      toc: true

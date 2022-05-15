@@ -1,7 +1,6 @@
-Pedro Paulo Palazzo's professional website
-==========================================
+# Pedro Paulo Palazzo's professional website
 
-![Jekyll](https://github.com/p3palazzo/p3palazzo.github.io/workflows/Website%20build/badge.svg)
+![Jekyll](https://github.com/palazzo-pt/en/workflows/Website%20build/badge.svg)
 
 This code functions as an *aide-mémoire* to myself, helping me organize
 information I might need to access quickly and in a useful way for

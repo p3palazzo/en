@@ -21,7 +21,7 @@ portfolio:
   title     : "Research"
   excerpt: |
     History of construction and the built environment.
-    Survey and study of historic sites with
+    Survey and study of historic sites in
     <span class="smallcaps">HBIM</span> and
     <span class="smallcaps">GIS</span>.
   btn_class : "btn btn--inverse"

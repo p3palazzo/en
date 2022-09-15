@@ -58,9 +58,8 @@ profile:
 
     I am currently associate professor at the [University of Brasilia School
     of Architecture and Urbanism](http://www.fau.unb.br) and a visiting
-    scholar affiliated with the
-    [TechNetEmpire](https://technetempire.fcsh.unl.pt/) research project at
-    the <span class="smallcaps">NOVA</span> University, Lisbon. I am a
+    scholar at the University of Coimbra [Center for Social
+    Studies](https://ces.uc.pt). I am a
     member of the Documentation committee of Icomos Brazil and do
     consulting work in historic preservation and traditional
     architecture through
